@@ -25,7 +25,7 @@ const AboutUs = () => {
           <img
             src={teamWork}
             alt="Team High-Five"
-            className="absolute bottom-[-20px] left-70 w-50 h-28 object-cover shadow-lg border-l-4 border-t-4 border-white"
+            className="absolute bottom-[-20px] left-70 md:bottom-[-30px] md:left-90 w-50 h-28 object-cover shadow-lg border-l-4 border-t-4 border-white"
           />
         </div>
 
