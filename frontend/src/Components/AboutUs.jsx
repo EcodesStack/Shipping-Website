@@ -41,7 +41,7 @@ const AboutUs = () => {
             Solving social problems requires leaders from foundations,
             businesses, nonprofits, and governments to reimagine the systems and
             relationships that shape our world. We strive for a deep
-            understanding of how to create social change.
+            understanding of how to create social impact.
           </p>
           <button className="bg-primary text-white px-6 py-3 rounded hover:bg-orange-700 transition">
             Read more
